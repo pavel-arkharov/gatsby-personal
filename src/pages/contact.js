@@ -51,7 +51,7 @@ const ContactPage = () => {
       </p>
       <p style = {contactStyle}>
         <a
-          href="https://github.com/asigaru"
+          href="https://github.com/pavel-arkharov"
           target="_blank"
           rel="noopener noreferrer"
         >
